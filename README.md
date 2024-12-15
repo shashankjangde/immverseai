@@ -1,7 +1,8 @@
 # 📄 Automated PDF Downloader 🚀
 
 Welcome to the **Automated PDF Downloader**! This Python-based tool simplifies downloading PDF files from various types of links, so you can save time and focus on what matters most. 🖥️
----
+
+
 
 ## ⚙️ Demo of the Project
 
